@@ -4,3 +4,10 @@ random_numbers <- rnorm(100, mean = 25, sd = 1)
 # Print the random numbers to verify
 print(random_numbers)
 
+# Compute the mean of the 100 random numbers
+mean_value <- mean(random_numbers)
+
+# Print the mean value to verify
+print(mean_value)
+
+
