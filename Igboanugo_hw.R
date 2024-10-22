@@ -9,5 +9,10 @@ mean_value <- mean(random_numbers)
 
 # Print the mean value to verify
 print(mean_value)
+# Compute the standard deviation of the 100 random numbers
+sd_value <- sd(random_numbers)
+
+# Print the standard deviation to verify
+print(sd_value)
 
 
