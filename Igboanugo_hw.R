@@ -15,4 +15,7 @@ sd_value <- sd(random_numbers)
 # Print the standard deviation to verify
 print(sd_value)
 
+# Print a message showing the mean and standard deviation
+print(paste("The Mean is", mean_value, "and the Standard Deviation is", sd_value))
+
 
