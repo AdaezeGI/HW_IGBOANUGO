@@ -1,0 +1,12 @@
+name: Babyname_app
+title: Babyname_app
+username: adaezegi
+account: adaezegi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13177389
+bundleId: 9289084
+url: https://adaezegi.shinyapps.io/Babyname_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
